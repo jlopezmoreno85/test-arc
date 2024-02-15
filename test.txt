@@ -1,0 +1,30 @@
+Path: C:\JLO\PROGRAMMING\test-github\main.py
+Path: C:\JLO\PROGRAMMING\test-github\test.html
+Path: C:\JLO\PROGRAMMING\test-github\test.txt
+Path: C:\JLO\PROGRAMMING\test-github\.git\COMMIT_EDITMSG
+Path: C:\JLO\PROGRAMMING\test-github\.git\config
+Path: C:\JLO\PROGRAMMING\test-github\.git\description
+Path: C:\JLO\PROGRAMMING\test-github\.git\HEAD
+Path: C:\JLO\PROGRAMMING\test-github\.git\index
+Path: C:\JLO\PROGRAMMING\test-github\.git\hooks\applypatch-msg.sample
+Path: C:\JLO\PROGRAMMING\test-github\.git\hooks\commit-msg.sample
+Path: C:\JLO\PROGRAMMING\test-github\.git\hooks\fsmonitor-watchman.sample
+Path: C:\JLO\PROGRAMMING\test-github\.git\hooks\post-update.sample
+Path: C:\JLO\PROGRAMMING\test-github\.git\hooks\pre-applypatch.sample
+Path: C:\JLO\PROGRAMMING\test-github\.git\hooks\pre-commit.sample
+Path: C:\JLO\PROGRAMMING\test-github\.git\hooks\pre-merge-commit.sample
+Path: C:\JLO\PROGRAMMING\test-github\.git\hooks\pre-push.sample
+Path: C:\JLO\PROGRAMMING\test-github\.git\hooks\pre-rebase.sample
+Path: C:\JLO\PROGRAMMING\test-github\.git\hooks\pre-receive.sample
+Path: C:\JLO\PROGRAMMING\test-github\.git\hooks\prepare-commit-msg.sample
+Path: C:\JLO\PROGRAMMING\test-github\.git\hooks\push-to-checkout.sample
+Path: C:\JLO\PROGRAMMING\test-github\.git\hooks\update.sample
+Path: C:\JLO\PROGRAMMING\test-github\.git\info\exclude
+Path: C:\JLO\PROGRAMMING\test-github\.git\logs\HEAD
+Path: C:\JLO\PROGRAMMING\test-github\.git\logs\refs\heads\main
+Path: C:\JLO\PROGRAMMING\test-github\.git\objects\63\870abbde8e770cf37455e597f3ecda9d87bb2a
+Path: C:\JLO\PROGRAMMING\test-github\.git\objects\73\930fffa60a220891a2bc1224e9050c0abb3a71
+Path: C:\JLO\PROGRAMMING\test-github\.git\objects\f3\b5f54ee0551e678f98e0f2822cb6ff74156f11
+Path: C:\JLO\PROGRAMMING\test-github\.git\refs\heads\main
+Path: C:\JLO\PROGRAMMING\test-github\Folder 1\test_aa.txt
+Path: C:\JLO\PROGRAMMING\test-github\Folder 1\New folder\New folder\New Text Document.txt
